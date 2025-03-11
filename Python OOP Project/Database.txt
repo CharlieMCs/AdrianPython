@@ -1,0 +1,3 @@
+Persona("Leon", "Charles", "001", "foto1.png", "leon@gmail.com", "123", 25),
+Persona("Maria", "Gomez", "002", "foto2.png", "maria@gmail.com", "456", 30),
+Persona("Carlos", "Ramirez", "003", "foto3.png", "carlos@gmail.com", "password789", 28)
